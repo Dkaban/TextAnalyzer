@@ -1,8 +1,7 @@
 //***********************************************************
 //  TextAnalyzer.java
 //
-//  Dustin Kaban T00663749
-//  COMP 1231 Module 5 Assignment 5 Question 1
+//  Dustin Kaban
 //  August 5th, 2020
 //
 //  This class is the main driver for our TextAnalyzer GUI project.
